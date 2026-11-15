@@ -2,7 +2,6 @@
 
 A machine learning application that classifies human actions from video using **MediaPipe Pose** for skeleton extraction and **Scikit-Learn** for classification. It is trained on the **KTH dataset** and includes a **real-time webcam demo**. The best model, a Random Forest, reaches **96.56% accuracy** on the held-out test set.
 
-Built for **CSE381 – Introduction to Machine Learning**, Faculty of Engineering, Ain Shams University (ICHEP – CESS program).
 
 ## Recognized Actions
 
